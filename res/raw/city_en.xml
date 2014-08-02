@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?><city version="1.2" last_updated="Mon, 21 Jul 2014 23:41:55 +0300">
+	<city id="34">
+	   <name>Bila Tserkva</name>
+	   <name_en>Bila Tserkva</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="168">
+	   <name>Bilhorod-Dnistrovskyi</name>
+	   <name_en>Bilhorod-Dnistrovskyi</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="159">
+	   <name>Boiarka</name>
+	   <name_en>Boiarka</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="35">
+	   <name>Boryspil</name>
+	   <name_en>Boryspil</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="160">
+	   <name>Busk</name>
+	   <name_en>Busk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="2">
+	   <name>Cherkasy</name>
+	   <name_en>Cherkasy</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="5">
+	   <name>Chernihiv</name>
+	   <name_en>Chernihiv</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="9">
+	   <name>Chernivtsi</name>
+	   <name_en>Chernivtsi</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="44">
+	   <name>Chornomorske</name>
+	   <name_en>Chornomorske</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="166">
+	   <name>Chuhuiv</name>
+	   <name_en>Chuhuiv</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="123">
+	   <name>Dniprodzerzhynsk</name>
+	   <name_en>Dniprodzerzhynsk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="16">
+	   <name>Dnipropetrovsk</name>
+	   <name_en>Dnipropetrovsk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="7">
+	   <name>Donetsk</name>
+	   <name_en>Donetsk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="161">
+	   <name>Druzhba</name>
+	   <name_en>Druzhba</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="26">
+	   <name>Eupatoria</name>
+	   <name_en>Eupatoria</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="169">
+	   <name>Henichesk</name>
+	   <name_en>Henichesk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="122">
+	   <name>Horlivka</name>
+	   <name_en>Horlivka</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="127">
+	   <name>Irpin</name>
+	   <name_en>Irpin</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="32">
+	   <name>Ivano-Frankivsk</name>
+	   <name_en>Ivano-Frankivsk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="112">
+	   <name>Izium</name>
+	   <name_en>Izium</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="63">
+	   <name>Izmail</name>
+	   <name_en>Izmail</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="41">
+	   <name>Kerch</name>
+	   <name_en>Kerch</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="19">
+	   <name>Kharkiv</name>
+	   <name_en>Kharkiv</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="8">
+	   <name>Kherson</name>
+	   <name_en>Kherson</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="12">
+	   <name>Khmelnytskyi</name>
+	   <name_en>Khmelnytskyi</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="14">
+	   <name>Kirovohrad</name>
+	   <name_en>Kirovohrad</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="67">
+	   <name>Konotop</name>
+	   <name_en>Konotop</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="47">
+	   <name>Kovel</name>
+	   <name_en>Kovel</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="29">
+	   <name>Kryvyi Rih</name>
+	   <name_en>Kryvyi Rih</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="23">
+	   <name>Kyiv</name>
+	   <name_en>Kiev</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="162">
+	   <name>Liubashivka</name>
+	   <name_en>Liubashivka</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="65">
+	   <name>Lubny</name>
+	   <name_en>Lubny</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="31">
+	   <name>Luhansk</name>
+	   <name_en>Luhansk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="15">
+	   <name>Lviv</name>
+	   <name_en>Lviv</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="131">
+	   <name>Makiivka</name>
+	   <name_en>Makiivka</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="20">
+	   <name>Mariupol</name>
+	   <name_en>Mariupol</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="163">
+	   <name>Merefa</name>
+	   <name_en>Merefa</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="164">
+	   <name>Mohyliv-Podilskyi</name>
+	   <name_en>Mohyliv-Podilskyi</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="11">
+	   <name>Mykolaiv</name>
+	   <name_en>Mykolaiv</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="165">
+	   <name>Myronivka</name>
+	   <name_en>Myronivka</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="77">
+	   <name>Nizhyn</name>
+	   <name_en>Nizhyn</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="25">
+	   <name>Odessa</name>
+	   <name_en>Odessa</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="1">
+	   <name>Poltava</name>
+	   <name_en>Poltava</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="6">
+	   <name>Rivne</name>
+	   <name_en>Rivne</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="66">
+	   <name>Sarny</name>
+	   <name_en>Sarny</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="22">
+	   <name>Sevastopol</name>
+	   <name_en>Sevastopol</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="167">
+	   <name>Shepetivka</name>
+	   <name_en>Shepetivka</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="147">
+	   <name>Shostka</name>
+	   <name_en>Shostka</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="24">
+	   <name>Simferopol</name>
+	   <name_en>Simferopol</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="4">
+	   <name>Sumy</name>
+	   <name_en>Sumy</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="57">
+	   <name>Svitlovodsk</name>
+	   <name_en>Svitlovodsk</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="13">
+	   <name>Ternopil</name>
+	   <name_en>Ternopil</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="76">
+	   <name>Uman</name>
+	   <name_en>Uman</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="30">
+	   <name>Uzhhorod</name>
+	   <name_en>Uzhhorod</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="10">
+	   <name>Vinnytsia</name>
+	   <name_en>Vinnytsia</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="46">
+	   <name>Volodymyr-Volynskyi</name>
+	   <name_en>Volodymyr-Volynskyi</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="21">
+	   <name>Yalta</name>
+	   <name_en>Yalta</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="17">
+	   <name>Zaporizhia</name>
+	   <name_en>Zaporizhia</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+	<city id="3">
+	   <name>Zhytomyr</name>
+	   <name_en>Zhytomyr</name_en>
+	   <country>Ukraine</country>
+	   <country_id>804</country_id>
+	</city>
+</city>

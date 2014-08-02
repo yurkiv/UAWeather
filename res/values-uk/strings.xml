@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Weather Forecast</string>
+    <string name="update">Оновити</string>
+    <string name="auto_gps">Автовизначення місцезнаходження</string>
+    <string name="search">Пошук</string>
+    <string name="settings">Налаштування</string>
+    <string name="help">Допомога</string>
+    <string name="about">Про додаток</string>
+    
+    <string name="current_tab_name">Поточний</string>
+    <string name="forecast_tab_name">Прогноз</string>
+    
+    <string name="last_updated">Останнє оновлення:</string>
+    <string name="pressure">ммРС</string>
+    <string name="wind_speed">м/с</string>
+    
+    <string name="N">Пн</string>
+    <string name="NE">Пн-С</string>
+    <string name="E">С</string>
+    <string name="SE">Пд-С</string>
+    <string name="S">Пд</string>
+    <string name="SW">Пд-З</string>
+    <string name="W">З</string>
+    <string name="NW">Пн-З</string>
+    
+    <string name="time_night">ніч</string>
+    <string name="time_morning">ранок</string>
+    <string name="time_afternoon">день</string>
+    <string name="time_evening">вечір</string>    
+    
+    <string name="not_forecast">Прогноз для вибраного міста недоступний</string>
+    <string name="queryhint">Введіть місце розташування</string>
+    
+    <string name="please_wait">Будь ласка, почекайте&#8230;</string>
+    <string name="loading_forecast">Завантаження прогнозу&#8230;</string>
+    <string name="not_city_list">Не вдалося завантажити список міст.</string>
+    <string name="download_error">Не вдалося завантажити прогноз. Будь ласка, перевірте зєднання з інтернетом і повторіть спробу пізніше.</string>
+    
+    <string name="search_location">Пошук місця розташування&#8230;</string>
+    <string name="search_error">Не вдалося знайти місце розташування. Будь ласка, скористайтеся ручним пошуком.</string>
+    
+</resources>
