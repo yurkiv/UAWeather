@@ -53,7 +53,8 @@
     <string name="download_error">Failed to load forecast. Please check your internet connection or try again later.</string>
     <string name="search_location">Search the location&#8230;</string>
     <string name="search_error">Unable to find location. Please use the manual search.</string>
-    
-    <string name="title_activity_about">About UA Weather</string>
+    <string name="title_activity_gps">Gps</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_about">AboutActivity</string>
 
 </resources>

@@ -25,7 +25,7 @@ public class AboutActivity extends Activity {
 		feedback.setMovementMethod(LinkMovementMethod.getInstance());
 		
 		TextView sourse = (TextView) findViewById(R.id.sourse);
-		sourse.setText(Html.fromHtml("<a href=\"https://github.com/zloysalat/UAWeather\">https://github.com/zloysalat/UAWeather</a>"));
+		sourse.setText(Html.fromHtml("<a href=\"http://www.google.com\">www.github.com/zloysalat</a>"));
 		sourse.setMovementMethod(LinkMovementMethod.getInstance());
 		
 		ImageView img = (ImageView)findViewById(R.id.data_sourse);
