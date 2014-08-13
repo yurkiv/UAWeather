@@ -56,7 +56,7 @@ public class SearchActivity extends ActionBarActivity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_pref);
+        setContentView(R.layout.activity_search);
 
         listView= (ListView) findViewById(R.id.listView);
         sharedpreferences = getSharedPreferences(MyPREFERENCES, Context.MODE_PRIVATE);
