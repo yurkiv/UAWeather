@@ -143,7 +143,7 @@ public class MainActivity extends ActionBarActivity implements TabListener {
 			break;
 
 		case 1:
-			SlidingFragment slidingFragment = new SlidingFragment();
+			ForecastFragment slidingFragment = new ForecastFragment();
 			Log.d("Forecast", "create Sliding");
 			ft.replace(R.id.frgmCont, slidingFragment);
 			break;
