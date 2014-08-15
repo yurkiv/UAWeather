@@ -117,6 +117,10 @@ public class MainActivity extends ActionBarActivity implements TabListener {
 			findGPSLocation();
 			return true;
 			
+		case R.id.feedback:
+			sendFeddback();
+			return true;
+						
 		case R.id.about:
 			Intent intentAbout = new Intent(this, AboutActivity.class);
 			startActivity(intentAbout);			
@@ -256,6 +260,20 @@ public class MainActivity extends ActionBarActivity implements TabListener {
 			return false;
 		} else
 			return true;
+	}
+	
+	private void sendFeddback(){
+		String report="Enter Feedback..";
+		Intent i = new Intent(Intent.ACTION_SEND);
+		i.setType("message/rfc822");
+		i.putExtra(Intent.EXTRA_EMAIL  , new String[]{"jurkiw.misha@gmail.com"});
+		i.putExtra(Intent.EXTRA_SUBJECT, "Feedback");
+		i.putExtra(Intent.EXTRA_TEXT   , report);
+		try {
+		    startActivity(Intent.createChooser(i, "Send mail..."));
+		} catch (android.content.ActivityNotFoundException ex) {
+		    Toast.makeText(MainActivity.this, "There are no email clients installed.", Toast.LENGTH_SHORT).show();
+		}
 	}
 	
 	private class Connection extends AsyncTask<String, Void, Exception> {

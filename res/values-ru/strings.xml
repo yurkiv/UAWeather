@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Weather Forecast</string>
+    <string name="app_name">UA Weather</string>
     <string name="update">Обновить</string>
     <string name="auto_gps">Автоопределение местоположения</string>
     <string name="search">Поиск</string>
     <string name="settings">Настройки</string>
-    <string name="help">Помощь</string>
+    <string name="feedback">Отзыв</string>
     <string name="about">О приложении</string>
     
     <string name="current_tab_name">Текущая</string>

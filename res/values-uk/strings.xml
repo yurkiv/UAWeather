@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Weather Forecast</string>
+    <string name="app_name">UA Weather</string>
     <string name="update">Оновити</string>
     <string name="auto_gps">Автовизначення місцезнаходження</string>
     <string name="search">Пошук</string>
     <string name="settings">Налаштування</string>
-    <string name="help">Допомога</string>
+    <string name="feedback">Відгук</string>
     <string name="about">Про додаток</string>
     
     <string name="current_tab_name">Поточний</string>
