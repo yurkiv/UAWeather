@@ -39,5 +39,6 @@
     
     <string name="search_location">Поиск местоположения&#8230;</string>
     <string name="search_error">Не удалось найти местоположения. Пожалуйста, воспользуйтесь ручным поиском.</string>
+    <string name="title_activity_about">О приложении</string>
     
 </resources>
